@@ -1,1 +1,1 @@
-# MIT6.284-DistributedFileSystem
+# MIT6.824-DistributedFileSystem
